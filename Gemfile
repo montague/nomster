@@ -5,6 +5,8 @@ gem 'rails', '4.0.1'
 
 gem 'simple_form'
 
+gem 'devise', '>= 3.2.4'
+
 gem 'kaminari', '~> 0.16.3'
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
