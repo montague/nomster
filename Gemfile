@@ -5,6 +5,8 @@ gem 'rails', '4.0.1'
 
 gem 'simple_form'
 
+gem 'carrierwave'
+
 gem 'geocoder'
 
 gem 'figaro', '>= 1.0.0'
