@@ -5,6 +5,10 @@ gem 'rails', '4.0.1'
 
 gem 'simple_form'
 
+gem 'geocoder'
+
+gem 'figaro', '>= 1.0.0'
+
 gem 'devise', '>= 3.2.4'
 
 gem 'kaminari', '~> 0.16.3'
