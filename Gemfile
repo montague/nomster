@@ -7,6 +7,8 @@ gem 'simple_form'
 
 gem 'carrierwave'
 
+gem 'fog', '~> 1.3.1'
+
 gem 'geocoder'
 
 gem 'figaro', '>= 1.0.0'
